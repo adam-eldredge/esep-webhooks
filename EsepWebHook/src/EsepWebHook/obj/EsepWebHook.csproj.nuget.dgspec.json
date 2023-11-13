@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adame\\EsepWebHook\\src\\EsepWebHook\\EsepWebHook.csproj": {}
+    "C:\\Users\\adame\\EsepWebHook\\esep-webhooks\\EsepWebHook\\src\\EsepWebHook\\EsepWebHook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adame\\EsepWebHook\\src\\EsepWebHook\\EsepWebHook.csproj": {
+    "C:\\Users\\adame\\EsepWebHook\\esep-webhooks\\EsepWebHook\\src\\EsepWebHook\\EsepWebHook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adame\\EsepWebHook\\src\\EsepWebHook\\EsepWebHook.csproj",
+        "projectUniqueName": "C:\\Users\\adame\\EsepWebHook\\esep-webhooks\\EsepWebHook\\src\\EsepWebHook\\EsepWebHook.csproj",
         "projectName": "EsepWebHook",
-        "projectPath": "C:\\Users\\adame\\EsepWebHook\\src\\EsepWebHook\\EsepWebHook.csproj",
+        "projectPath": "C:\\Users\\adame\\EsepWebHook\\esep-webhooks\\EsepWebHook\\src\\EsepWebHook\\EsepWebHook.csproj",
         "packagesPath": "C:\\Users\\adame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adame\\EsepWebHook\\src\\EsepWebHook\\obj\\",
+        "outputPath": "C:\\Users\\adame\\EsepWebHook\\esep-webhooks\\EsepWebHook\\src\\EsepWebHook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adame\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.3.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
